@@ -17,7 +17,6 @@ This project demonstrates a responsive dashboard built using React.js and styled
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](![Screenshot (97)](https://github.com/Debasish121/dashboard-react-app/assets/85250115/18336a74-e463-4690-8738-ca306cb6a025))
+(![Screenshot (97)](https://github.com/Debasish121/dashboard-react-app/assets/85250115/18336a74-e463-4690-8738-ca306cb6a025))
 
-### Charts and Analytics
-![Charts and Analytics](/images/charts-analytics.png)
+![Screenshot (99)](https://github.com/Debasish121/dashboard-react-app/assets/85250115/de181acd-a131-4a6b-91d9-0aa1cca348ca)
